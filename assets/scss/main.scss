@@ -1,0 +1,45 @@
+/*--------------------------------------------------
+ Company    : PT. APECSA OPTIMA SOLUSI
+ Document   : SCSS Main Global
+ Date 			: 21 Maret 2017
+ Author     : Fathan Rohman - fathan.github.io
+ --------------------------------------------------*/
+
+/* -------------------
+   ---- PLUGIN ---
+   ------------------- */
+
+@import "plugin/bootstrap.min";
+@import "plugin/font-awesome";
+@import "plugin/animate.min";
+@import "plugin/owl.carousel";
+
+/* -------------------
+   ---- GLOBAL ---
+   ------------------- */
+
+@import "global/fonts";
+@import "global/variabel";
+@import "global/mixins";
+@import "global/extend_inheritance";
+@import "global/global";
+@import "global/button";
+@import "global/color";
+@import "global/background";
+@import "global/header";
+@import "global/footer";
+@import "global/sidebar_member_left";
+
+/* -------------------
+   ---- SECTION ---
+   ------------------- */
+
+@import "section/bootstrap";
+@import "section/home";
+@import "section/product";
+
+/* -------------------
+   ---- RESPONSIVE ---
+   ------------------- */
+
+@import "responsive/main-responsive";

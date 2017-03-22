@@ -1,0 +1,143 @@
+body{
+	font-family: open-sans-regular;
+    width: 100%;
+    background-color: #F8F8F8;
+    padding-top: 70px;
+}
+
+a{
+	text-decoration: none;
+	cursor: pointer;
+    @include transition(0.4s);
+}
+
+.display-none{
+    display: none;
+}
+
+.display-block{
+    display: block;
+}
+
+.overlay {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 25px;
+    bottom: 0;
+    z-index: 9;
+    background: rgba(88,88,88,.6);
+}
+
+.box-leave{
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.rm-mb{
+    margin-bottom: -5px;
+}
+
+.section{
+    padding: 50px 0px;
+    margin-bottom: -5px;
+
+    .box-title{
+        width: 100%;
+        display: inline-block;
+        text-align: center;
+        margin-bottom: 50px;
+
+        .title{
+            font-size: 24px;
+            font-family: open-sans-bold;
+            margin-bottom: 10px;
+            color: $color-black;
+            text-transform: uppercase;
+        }
+
+        hr{
+            width: 20%;
+        }
+
+        .description{
+            font-size: 18px;
+            font-family: open-sans-light;
+            color: $color-black;
+        }
+    }
+}
+
+.section2{
+    padding: 70px 0px;
+}
+
+.site-wrapper{
+    overflow: hidden;
+}
+
+.wow {
+   visibility: hidden;
+}
+
+.main-content{
+    display: inline-block;
+    width: 100%;
+}
+
+// BACK TO TOP
+#back-to-top {
+    position: fixed;
+    bottom: 4%;
+    right: 2%;
+    z-index: 9999;
+    width: 70px;
+    height: 70px;
+    text-align: center;
+    line-height: 30px;
+    background: rgba(68, 68, 68, 0.72);
+    color: #FFFFFF;
+    cursor: pointer;
+    border: 1px solid rgba(68, 68, 68, 0.72);
+    border-radius: 50%;
+    text-decoration: none;
+    transition: opacity 0.2s ease-out;
+    opacity: 0;
+    font-size: 3em;
+    padding: 10px 0px;
+    -webkit-transition: all 0.4s ease-in-out;
+    -moz-transition: all 0.4s ease-in-out;
+    -o-transition: all 0.4s ease-in-out;
+    transition: all 0.4s ease-in-out;
+    
+    &:hover {
+        background: #333333;
+        color: #FFFFFF;
+        @include transition(0.4s);
+    }
+}
+
+#back-to-top.show {
+    opacity: 1;
+}
+
+// BACKGROUND IMAGE
+.bg1{
+     background: url(../images/gallery/bg1.jpg) no-repeat center center fixed;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+    margin: 0 auto;
+    width: 100%;
+}
+
+.bg2{
+     background: url(../images/gallery/slider_1.jpg) no-repeat center center fixed;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+    margin: 0 auto;
+    width: 100%;
+}
