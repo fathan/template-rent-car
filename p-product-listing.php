@@ -286,7 +286,7 @@
 														<i class="fa fa-users"></i>
 														&nbsp;&nbsp;<span>Kelas Menengah</span>
 													</div>
-													<a href="#" class="btn btn-default btn-sm">
+													<a href="p-product-detail.php" class="btn btn-default btn-sm">
 														<i class="fa fa-search"></i>
 														Lihat Detail
 													</a>
@@ -365,7 +365,7 @@
 														<i class="fa fa-users"></i>
 														&nbsp;&nbsp;<span>Kelas Menengah</span>
 													</div>
-													<a href="#" class="btn btn-default btn-sm">
+													<a href="p-product-detail.php" class="btn btn-default btn-sm">
 														<i class="fa fa-search"></i>
 														Lihat Detail
 													</a>
@@ -444,7 +444,7 @@
 														<i class="fa fa-users"></i>
 														&nbsp;&nbsp;<span>Kelas Menengah</span>
 													</div>
-													<a href="#" class="btn btn-default btn-sm">
+													<a href="p-product-detail.php" class="btn btn-default btn-sm">
 														<i class="fa fa-search"></i>
 														Lihat Detail
 													</a>
@@ -523,7 +523,7 @@
 														<i class="fa fa-users"></i>
 														&nbsp;&nbsp;<span>Kelas Menengah</span>
 													</div>
-													<a href="#" class="btn btn-default btn-sm">
+													<a href="p-product-detail.php" class="btn btn-default btn-sm">
 														<i class="fa fa-search"></i>
 														Lihat Detail
 													</a>
@@ -602,7 +602,7 @@
 														<i class="fa fa-users"></i>
 														&nbsp;&nbsp;<span>Kelas Menengah</span>
 													</div>
-													<a href="#" class="btn btn-default btn-sm">
+													<a href="p-product-detail.php" class="btn btn-default btn-sm">
 														<i class="fa fa-search"></i>
 														Lihat Detail
 													</a>
@@ -681,7 +681,7 @@
 														<i class="fa fa-users"></i>
 														&nbsp;&nbsp;<span>Kelas Menengah</span>
 													</div>
-													<a href="#" class="btn btn-default btn-sm">
+													<a href="p-product-detail.php" class="btn btn-default btn-sm">
 														<i class="fa fa-search"></i>
 														Lihat Detail
 													</a>

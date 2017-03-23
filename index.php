@@ -144,7 +144,7 @@
 				<div class="row">
 					<div class="box-product-wrapper">
 						<div class="col-md-4">
-							<div class="list-product">
+							<a href="p-product-detail.php" class="list-product">
 								<div class="image">
 									<img src="https://si.wsj.net/public/resources/images/OF-AD229_RUMBLE_P_20160323113838.jpg" alt="">
 									<div class="price">
@@ -154,7 +154,7 @@
 								<div class="title">
 									<span>Mercedes-Benz V-CLASS</span>
 								</div>
-							</div>
+							</a>
 						</div>
 						<div class="col-md-4">
 							<div class="list-product">
