@@ -136,7 +136,7 @@
 				<div class="row">
 					<div class="col-md-12">
 						<div class="box-title">
-							<div class="title">PRDUK POPULER</div>
+							<div class="title">PRODUK POPULER</div>
 							<hr>
 						</div>
 					</div>
@@ -220,6 +220,13 @@
 									<span>Mercedes-Benz V-CLASS</span>
 								</div>
 							</div>
+						</div>
+					</div>
+					<div class="col-md-12">
+						<div class="text-center">
+							<a href="p-product-listing.php" class="btn btn-default">
+								LIHAT SEMUA PRODUK
+							</a>
 						</div>
 					</div>
 				</div>
