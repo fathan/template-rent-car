@@ -11,7 +11,7 @@
 				<div class="row">
 					<div class="col-md-12">
 						<div class="pull-left">
-							<span>DAFTAR PRODUK</span>
+							<span class="title">DAFTAR PRODUK</span>
 						</div>
 						<div class="pull-right">
 							<span>TOTAL PRODUK : 5000</span>

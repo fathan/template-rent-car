@@ -21,6 +21,10 @@
   }
 
 	span{
+    &.title{
+      font-family: open-sans-semibold;
+    }
+
 		text-transform: uppercase;
 		font-size: 18px;
 		color: #FFFFFF;

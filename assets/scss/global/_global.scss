@@ -121,6 +121,18 @@ a{
     opacity: 1;
 }
 
+.form-rent-car{
+    label{
+        font-family: open-sans-semibold;
+        font-size: 12px;
+        color: #000000;
+    }
+
+    .form-control{
+        margin-bottom: 10px;
+    }
+}
+
 // BACKGROUND IMAGE
 .bg1{
      background: url(../images/gallery/bg1.jpg) no-repeat center center fixed;

@@ -16,16 +16,93 @@
 					</div>
 				</div>
 				<div class="row">
-					<div class="col-md-4 col-md-offset-4">
+					<div class="col-md-7">
+						<div class="box-point-wrapper">
+							<div class="list-point">
+								<div class="box-icon">
+									<div class="icon">
+										<i class="fa fa-user"></i>
+									</div>
+								</div>
+								<div class="box-info">
+									<div class="title">
+										Free Member
+									</div>
+									<div class="description">
+										Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci ex nobis, laudantium, quisquam vitae suscipit quaerat, in asperiores nemo odio culpa at. Neque nam, animi enim. Voluptates perferendis, iure ea!
+									</div>
+								</div>
+							</div>
+							<div class="list-point">
+								<div class="box-icon">
+									<div class="icon">
+										<i class="fa fa-search"></i>
+									</div>
+								</div>
+								<div class="box-info">
+									<div class="title">
+										Filter pencarian Lengkap
+									</div>
+									<div class="description">
+										Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci ex nobis, laudantium, quisquam vitae suscipit quaerat, in asperiores nemo odio culpa at. Neque nam, animi enim. Voluptates perferendis, iure ea!
+									</div>
+								</div>
+							</div>
+							<div class="list-point">
+								<div class="box-icon">
+									<div class="icon">
+										<i class="fa fa-list"></i>
+									</div>
+								</div>
+								<div class="box-info">
+									<div class="title">
+										Bandingkan Produk
+									</div>
+									<div class="description">
+										Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci ex nobis, laudantium, quisquam vitae suscipit quaerat, in asperiores nemo odio culpa at. Neque nam, animi enim. Voluptates perferendis, iure ea!
+									</div>
+								</div>
+							</div>
+							<div class="list-point">
+								<div class="box-icon">
+									<div class="icon">
+										<i class="fa fa-share"></i>
+									</div>
+								</div>
+								<div class="box-info">
+									<div class="title">
+										Login Menggunakan media social anda
+									</div>
+									<div class="description">
+										Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci ex nobis, laudantium, quisquam vitae suscipit quaerat, in asperiores nemo odio culpa at. Neque nam, animi enim. Voluptates perferendis, iure ea!
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-5">
 						<div class="panel panel-default">
 							<div class="panel-body">
-								<form action="">
+								<a href="http://facebook.com/" class="btn btn-primary btn-block">
+									<i class="fa fa-facebook"></i>
+									Daftar menggunakan akun Facebook
+								</a>
+								<a href="http://twitter.com/" class="btn btn-info btn-block">
+									<i class="fa fa-twitter"></i>
+									Daftar menggunakan akun Twitter
+								</a>
+								<br>
+								<div class="text-center">
+									Atau
+								</div>
+								<br>
+								<form action="" class="form-rent-car">
 									<div class="row">
-										<div class="col-md-12">
+										<div class="col-md-6">
 											<label>First Name</label>
 											<input type="text" class="form-control">
 										</div>
-										<div class="col-md-12">
+										<div class="col-md-6">
 											<label>Last Name</label>
 											<input type="text" class="form-control">
 										</div>
@@ -43,7 +120,15 @@
 										</div>
 										<div class="col-md-12">
 											<br>
-											<input type="submit" class="btn btn-default" value="Register">
+											<br>
+											<input type="submit" class="btn btn-default btn-block" value="Register">
+											<br>
+											<div class="text-center">
+												<small>
+													Sudah punya akun Rent Car? 
+													<a href="p-auth-login.php">Login disini</a>
+												</small>
+											</div>
 										</div>
 									</div>
 								</form>

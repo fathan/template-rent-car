@@ -16,25 +16,87 @@
 					</div>
 				</div>
 				<div class="row">
-					<!-- <div class="col-md-6">
+					<div class="col-md-7">
 						<div class="box-point-wrapper">
-							<div class="box-icon">
-								<div class="icon">
-									<i class="fa fa-user"></i>
+							<div class="list-point">
+								<div class="box-icon">
+									<div class="icon">
+										<i class="fa fa-user"></i>
+									</div>
+								</div>
+								<div class="box-info">
+									<div class="title">
+										Free Member
+									</div>
+									<div class="description">
+										Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci ex nobis, laudantium, quisquam vitae suscipit quaerat, in asperiores nemo odio culpa at. Neque nam, animi enim. Voluptates perferendis, iure ea!
+									</div>
 								</div>
 							</div>
-							<div class="box-desc">
-								<div class="title">Free member</div>
-								<div class="description">
-									Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita id dolores reprehenderit dolore, quo sint iste necessitatibus provident reiciendis atque cupiditate maiores dicta ipsa, placeat molestiae quos nulla illo distinctio.
+							<div class="list-point">
+								<div class="box-icon">
+									<div class="icon">
+										<i class="fa fa-search"></i>
+									</div>
+								</div>
+								<div class="box-info">
+									<div class="title">
+										Filter pencarian Lengkap
+									</div>
+									<div class="description">
+										Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci ex nobis, laudantium, quisquam vitae suscipit quaerat, in asperiores nemo odio culpa at. Neque nam, animi enim. Voluptates perferendis, iure ea!
+									</div>
+								</div>
+							</div>
+							<div class="list-point">
+								<div class="box-icon">
+									<div class="icon">
+										<i class="fa fa-list"></i>
+									</div>
+								</div>
+								<div class="box-info">
+									<div class="title">
+										Bandingkan Produk
+									</div>
+									<div class="description">
+										Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci ex nobis, laudantium, quisquam vitae suscipit quaerat, in asperiores nemo odio culpa at. Neque nam, animi enim. Voluptates perferendis, iure ea!
+									</div>
+								</div>
+							</div>
+							<div class="list-point">
+								<div class="box-icon">
+									<div class="icon">
+										<i class="fa fa-share"></i>
+									</div>
+								</div>
+								<div class="box-info">
+									<div class="title">
+										Login Menggunakan media social anda
+									</div>
+									<div class="description">
+										Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci ex nobis, laudantium, quisquam vitae suscipit quaerat, in asperiores nemo odio culpa at. Neque nam, animi enim. Voluptates perferendis, iure ea!
+									</div>
 								</div>
 							</div>
 						</div>
-					</div> -->
-					<div class="col-md-4 col-md-offset-4">
+					</div>
+					<div class="col-md-5">
 						<div class="panel panel-default">
 							<div class="panel-body">
-								<form action="">
+								<a href="http://facebook.com/" class="btn btn-primary btn-block">
+									<i class="fa fa-facebook"></i>
+									Login menggunakan akun Facebook
+								</a>
+								<a href="http://twitter.com/" class="btn btn-info btn-block">
+									<i class="fa fa-twitter"></i>
+									Login menggunakan akun Twitter
+								</a>
+								<br>
+								<div class="text-center">
+									Atau
+								</div>
+								<br>
+								<form action="" class="form-rent-car">
 									<div class="row">
 										<div class="col-md-12">
 											<label>Username/Email</label>
@@ -46,7 +108,15 @@
 										</div>
 										<div class="col-md-12">
 											<br>
-											<input type="submit" class="btn btn-default" value="Login">
+											<br>
+											<input type="submit" class="btn btn-default btn-block" value="Login">
+											<br>
+											<div class="text-center">
+												<small>
+													Belum punya akun Rent Car? 
+													<a href="p-auth-register.php">Daftar disini</a>
+												</small>
+											</div>
 										</div>
 									</div>
 								</form>
