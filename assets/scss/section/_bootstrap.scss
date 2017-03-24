@@ -68,10 +68,19 @@
 	}
 }
 
+.navbar-right{
+	margin-right: 0px;
+}
+
 .navbar-default{
 	background-color: #FFFFFF;
 	box-shadow: 0 0 8px 0 rgba(0,0,0,.3);
 	border-radius: 0px;
+}
+
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:focus, .navbar-default .navbar-nav > .open > a:hover {
+	color: #555;
+	background-color: transparent;
 }
 
 .panel{

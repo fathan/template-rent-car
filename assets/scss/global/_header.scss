@@ -31,3 +31,45 @@
 		z-index: 999;
 	}
 }
+
+.dropdown-after-login{
+  display: inline-block!important;
+
+  .dropdown-toggle{
+    padding: 0px;
+    margin-top: 11px;
+  }
+
+  .dropdown-menu{
+    margin-top: 18px!important;
+    border: 1px solid rgba(208, 194, 194, 0.15);
+    padding: 0px;
+  }
+
+  .dropdown-menu > li > a {
+    display: block;
+    padding: 10px 10px;
+    border-bottom: 1px solid #f3f3f3;
+    clear: both;
+    font-weight: 400;
+    line-height: 1.42857143;
+    color: #333;
+    white-space: nowrap;
+  }
+
+  .avatar{
+    width: 30px;
+    height: 30px;
+    margin-right: 7px;
+    display: inline-block;
+
+    img{
+      width: 100%;
+      height: auto;
+    }
+  }
+
+  .name{
+    line-height: 0px;
+  }
+}
