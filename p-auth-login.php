@@ -100,16 +100,16 @@
 									<div class="row">
 										<div class="col-md-12">
 											<label>Username/Email</label>
-											<input type="text" class="form-control">
+											<input type="text" class="form-control" placeholder="Masukan username anda">
 										</div>
 										<div class="col-md-12">
 											<label>Password</label>
-											<input type="password" class="form-control">
+											<input type="password" class="form-control" placeholder="Masukan password anda">
 										</div>
 										<div class="col-md-12">
 											<br>
 											<br>
-											<input type="submit" class="btn btn-default btn-block" value="Login">
+											<input type="submit" class="btn btn-green btn-block" value="Login">
 											<br>
 											<div class="text-center">
 												<small>

@@ -8,14 +8,17 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="/">RENT CAR</a>
+      <a class="navbar-brand" href="/">
+        <i class="fa fa-car"></i>
+        RENT CAR INDONESIA
+      </a>
     </div>
 
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav navbar-right">
         <li><a href="p-auth-register.php">Register</a></li>
         <li><a href="p-auth-login.php">Masuk</a></li>
-        <li><a href="#" class="btn-add-product">Pasang Iklan</a></li>
+        <li><a href="#">Pasang Iklan</a></li>
       </ul>
     </div>
   </div>

@@ -108,7 +108,7 @@
 										</div>
 										<div class="col-md-12">
 											<br>
-											<input type="submit" class="btn btn-default btn-block" value="Add to Cart">
+											<input type="submit" class="btn btn-green btn-block" value="Add to Cart">
 										</div>
 									</div>
 								</div>

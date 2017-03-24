@@ -183,7 +183,10 @@
 										</div>
 										<div class="col-md-12">
 											<br>
-											<input type="submit" class="btn btn-success btn-block">
+											<div type="submit" class="btn btn-green btn-block">
+												<i class="fa fa-search"></i>
+												&nbsp;Cari
+											</div>
 											<br>
 										</div>
 									</div>
@@ -198,7 +201,7 @@
 						<div class="box-action-top">
 							<div class="pull-left">
 								<div class="btn-group">
-									<button type="button" class="btn btn-success dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+									<button type="button" class="btn btn-green dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 										Sorting Produk <span class="caret"></span>
 									</button>
 									<ul class="dropdown-menu">
@@ -210,7 +213,7 @@
 								</div>
 							</div>
 							<div class="pull-right">
-								<a href="#" class="btn btn-success">
+								<a href="#" class="btn btn-warning">
 									<i class="fa fa-save"></i>
 									&nbsp;Simpan Pencarian
 								</a>
@@ -262,11 +265,11 @@
 													<p>
 														Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestiae ipsum a aliquid perspiciatis in nam! Quam, saepe, temporibus! Laboriosam, aliquid? Autem, vel magnam pariatur! Dolorem quasi ducimus libero, fugit alias.
 													</p>
-													<a href="#" class="btn btn-success btn-sm">
+													<a href="#" class="btn btn-green btn-sm">
 														<i class="fa fa-heart"></i>
 														Simpan Favorit
 													</a>
-													<a href="#" class="btn btn-warning btn-sm">
+													<a href="#" class="btn btn-default btn-sm">
 														<i class="fa fa-phone"></i>
 														Hubungi Penyewa
 													</a>
@@ -341,11 +344,11 @@
 													<p>
 														Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestiae ipsum a aliquid perspiciatis in nam! Quam, saepe, temporibus! Laboriosam, aliquid? Autem, vel magnam pariatur! Dolorem quasi ducimus libero, fugit alias.
 													</p>
-													<a href="#" class="btn btn-success btn-sm">
+													<a href="#" class="btn btn-green btn-sm">
 														<i class="fa fa-heart"></i>
 														Simpan Favorit
 													</a>
-													<a href="#" class="btn btn-warning btn-sm">
+													<a href="#" class="btn btn-default btn-sm">
 														<i class="fa fa-phone"></i>
 														Hubungi Penyewa
 													</a>
@@ -420,11 +423,11 @@
 													<p>
 														Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestiae ipsum a aliquid perspiciatis in nam! Quam, saepe, temporibus! Laboriosam, aliquid? Autem, vel magnam pariatur! Dolorem quasi ducimus libero, fugit alias.
 													</p>
-													<a href="#" class="btn btn-success btn-sm">
+													<a href="#" class="btn btn-green btn-sm">
 														<i class="fa fa-heart"></i>
 														Simpan Favorit
 													</a>
-													<a href="#" class="btn btn-warning btn-sm">
+													<a href="#" class="btn btn-default btn-sm">
 														<i class="fa fa-phone"></i>
 														Hubungi Penyewa
 													</a>
@@ -499,11 +502,11 @@
 													<p>
 														Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestiae ipsum a aliquid perspiciatis in nam! Quam, saepe, temporibus! Laboriosam, aliquid? Autem, vel magnam pariatur! Dolorem quasi ducimus libero, fugit alias.
 													</p>
-													<a href="#" class="btn btn-success btn-sm">
+													<a href="#" class="btn btn-green btn-sm">
 														<i class="fa fa-heart"></i>
 														Simpan Favorit
 													</a>
-													<a href="#" class="btn btn-warning btn-sm">
+													<a href="#" class="btn btn-default btn-sm">
 														<i class="fa fa-phone"></i>
 														Hubungi Penyewa
 													</a>
@@ -578,11 +581,11 @@
 													<p>
 														Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestiae ipsum a aliquid perspiciatis in nam! Quam, saepe, temporibus! Laboriosam, aliquid? Autem, vel magnam pariatur! Dolorem quasi ducimus libero, fugit alias.
 													</p>
-													<a href="#" class="btn btn-success btn-sm">
+													<a href="#" class="btn btn-green btn-sm">
 														<i class="fa fa-heart"></i>
 														Simpan Favorit
 													</a>
-													<a href="#" class="btn btn-warning btn-sm">
+													<a href="#" class="btn btn-default btn-sm">
 														<i class="fa fa-phone"></i>
 														Hubungi Penyewa
 													</a>
@@ -657,11 +660,11 @@
 													<p>
 														Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestiae ipsum a aliquid perspiciatis in nam! Quam, saepe, temporibus! Laboriosam, aliquid? Autem, vel magnam pariatur! Dolorem quasi ducimus libero, fugit alias.
 													</p>
-													<a href="#" class="btn btn-success btn-sm">
+													<a href="#" class="btn btn-green btn-sm">
 														<i class="fa fa-heart"></i>
 														Simpan Favorit
 													</a>
-													<a href="#" class="btn btn-warning btn-sm">
+													<a href="#" class="btn btn-default btn-sm">
 														<i class="fa fa-phone"></i>
 														Hubungi Penyewa
 													</a>
@@ -699,7 +702,7 @@
 												<span aria-hidden="true">&laquo;</span>
 											</a>
 										</li>
-										<li><a href="#">1</a></li>
+										<li class="active"><a href="#">1</a></li>
 										<li><a href="#">2</a></li>
 										<li><a href="#">3</a></li>
 										<li><a href="#">4</a></li>

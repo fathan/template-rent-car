@@ -100,28 +100,28 @@
 									<div class="row">
 										<div class="col-md-6">
 											<label>First Name</label>
-											<input type="text" class="form-control">
+											<input type="text" class="form-control" placeholder="Nama depan kamu">
 										</div>
 										<div class="col-md-6">
 											<label>Last Name</label>
-											<input type="text" class="form-control">
+											<input type="text" class="form-control" placeholder="Nama belakang kamu">
 										</div>
 										<div class="col-md-12">
 											<label>Email</label>
-											<input type="text" class="form-control">
+											<input type="text" class="form-control" placeholder="email@mail.com">
 										</div>
 										<div class="col-md-12">
 											<label>Username/Email</label>
-											<input type="text" class="form-control">
+											<input type="text" class="form-control" placeholder="Username kamu">
 										</div>
 										<div class="col-md-12">
 											<label>Password</label>
-											<input type="password" class="form-control">
+											<input type="password" class="form-control" placeholder="Password">
 										</div>
 										<div class="col-md-12">
 											<br>
 											<br>
-											<input type="submit" class="btn btn-default btn-block" value="Register">
+											<input type="submit" class="btn btn-green btn-block" value="Register">
 											<br>
 											<div class="text-center">
 												<small>

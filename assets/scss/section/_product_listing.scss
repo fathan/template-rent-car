@@ -22,6 +22,10 @@
       border-radius: 0px;
       border-color: transparent;
 
+      .panel-default > .panel-heading + .panel-collapse > .panel-body {
+			  border-top-color: #f1f1f1;
+			}
+
 			.panel-heading{
 				background-color: transparent;
         border-color: transparent;
@@ -67,9 +71,17 @@
       border-radius: 3px;
       border: 1px solid #ebebeb;
       padding: 10px;
+      -webkit-transition: all 0.4s ease-in-out;
+	    -moz-transition: all 0.4s ease-in-out;
+	    -o-transition: all 0.4s ease-in-out;
+	    transition: all 0.4s ease-in-out;
 
       &:hover{
       	border: 1px solid #26a69a;
+      	-webkit-transition: all 0.4s ease-in-out;
+		    -moz-transition: all 0.4s ease-in-out;
+		    -o-transition: all 0.4s ease-in-out;
+		    transition: all 0.4s ease-in-out;
       }
 
 			.image{

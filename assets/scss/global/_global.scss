@@ -9,6 +9,17 @@ a{
 	text-decoration: none;
 	cursor: pointer;
     @include transition(0.4s);
+    -webkit-transition: all 0.4s ease-in-out;
+    -moz-transition: all 0.4s ease-in-out;
+    -o-transition: all 0.4s ease-in-out;
+    transition: all 0.4s ease-in-out;
+
+    &:hover{
+        -webkit-transition: all 0.4s ease-in-out;
+        -moz-transition: all 0.4s ease-in-out;
+        -o-transition: all 0.4s ease-in-out;
+        transition: all 0.4s ease-in-out;
+    }
 }
 
 .display-none{
@@ -91,8 +102,8 @@ a{
     bottom: 4%;
     right: 2%;
     z-index: 9999;
-    width: 70px;
-    height: 70px;
+    width: 50px;
+    height: 50px;
     text-align: center;
     line-height: 30px;
     background: rgba(68, 68, 68, 0.72);
@@ -103,8 +114,8 @@ a{
     text-decoration: none;
     transition: opacity 0.2s ease-out;
     opacity: 0;
-    font-size: 3em;
-    padding: 10px 0px;
+    font-size: 2.2em;
+    padding: 5px 0px;
     -webkit-transition: all 0.4s ease-in-out;
     -moz-transition: all 0.4s ease-in-out;
     -o-transition: all 0.4s ease-in-out;

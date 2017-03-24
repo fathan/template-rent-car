@@ -15,7 +15,7 @@
 							<div class="desc">
 								Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit aliquid non harum delectus minima quas quia praesentium cumque aspernatur consequatur ducimus consectetur suscipit totam, eligendi dolor modi natus quidem odio!
 							</div>
-							<a href="" class="btn btn-default btn-lg">
+							<a href="p-product-listing.php" class="btn btn-default">
 								Lihat semua produk
 							</a>
 						</div>
@@ -120,7 +120,7 @@
 											</div>
 											<div class="col-md-12">
 												<br>
-												<input type="submit" class="btn btn-block btn-default" value="Cari">
+												<input type="submit" class="btn btn-block btn-green" value="Cari">
 											</div>
 										</div>
 									</div>
@@ -224,7 +224,7 @@
 					</div>
 					<div class="col-md-12">
 						<div class="text-center">
-							<a href="p-product-listing.php" class="btn btn-default">
+							<a href="p-product-listing.php" class="btn btn-green">
 								LIHAT SEMUA PRODUK
 							</a>
 						</div>

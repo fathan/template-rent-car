@@ -52,16 +52,16 @@
 				<p>Telp : 1234-5678-7655</p>
 				<p>Email : info@rentcar.com</p>
 				<div class="social-media">
-					<a href="#" class="btn btn-default">
+					<a href="#" class="btn btn-default social">
 						<i class="fa fa-facebook"></i>
 					</a>
-					<a href="#" class="btn btn-default">
+					<a href="#" class="btn btn-default social">
 						<i class="fa fa-twitter"></i>
 					</a>
-					<a href="#" class="btn btn-default">
+					<a href="#" class="btn btn-default social">
 						<i class="fa fa-google-plus"></i>
 					</a>
-					<a href="#" class="btn btn-default">
+					<a href="#" class="btn btn-default social">
 						<i class="fa fa-linkedin"></i>
 					</a>
 				</div>
