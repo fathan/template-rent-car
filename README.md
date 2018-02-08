@@ -6,19 +6,19 @@ $ php -S localhost:3000
 ```
 ##
 # Home Page Preview
-![alt text](src/assets/images/screenshoot/homepage.png)
+![alt text](assets/images/screenshoot/homepage.png)
 
 # Product Listing Preview
-![alt text](src/assets/images/screenshoot/product-listing.png)
+![alt text](assets/images/screenshoot/product-listing.png)
 
 # Product Detail Preview
-![alt text](src/assets/images/screenshoot/product-detail.png)
+![alt text](assets/images/screenshoot/product-detail.png)
 
 # Auth Login Preview
-![alt text](src/assets/images/screenshoot/login.png)
+![alt text](assets/images/screenshoot/login.png)
 
 # Edit Profile Member Preview
-![alt text](src/assets/images/screenshoot/edit-profile.png)
+![alt text](assets/images/screenshoot/edit-profile.png)
 ##
 ##
 ## Contact Me :
