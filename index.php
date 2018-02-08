@@ -159,7 +159,7 @@
 						<div class="col-md-4">
 							<div class="list-product">
 								<div class="image">
-									<img src="http://www.wallpaperup.com/uploads/wallpapers/2016/03/08/906266/big_thumb_9b4123db3dd52f4a48477115d736185d.jpg" alt="">
+									<img src="https://si.wsj.net/public/resources/images/OF-AD229_RUMBLE_P_20160323113838.jpg" alt="">
 									<div class="price">
 										Rp. 1.400.000
 									</div>
@@ -185,7 +185,7 @@
 						<div class="col-md-4">
 							<div class="list-product">
 								<div class="image">
-									<img src="http://www.eteses.com/data/brands/2/2909040-mercedes-benz.jpg" alt="">
+									<img src="https://si.wsj.net/public/resources/images/OF-AD229_RUMBLE_P_20160323113838.jpg" alt="">
 									<div class="price">
 										Rp. 900.000
 									</div>
@@ -211,7 +211,7 @@
 						<div class="col-md-4">
 							<div class="list-product">
 								<div class="image">
-									<img src="http://www.wallpaperup.com/uploads/wallpapers/2016/03/08/906266/big_thumb_9b4123db3dd52f4a48477115d736185d.jpg" alt="">
+									<img src="https://si.wsj.net/public/resources/images/OF-AD229_RUMBLE_P_20160323113838.jpg" alt="">
 									<div class="price">
 										Rp. 2.000.000
 									</div>
